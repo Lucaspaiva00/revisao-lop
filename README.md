@@ -1,7 +1,7 @@
 ## REVISÃO LOP
 
 Exercício 1
-Escreva uma função que peça dois números inteiros ao usuário e exibe o valor soma seguido pelo maior deles.
+Escreva uma função que peça dois números inteiros ao usuário, e exiba o valor da soma, e mostre o maior deles.
 
 Exercício 2
 Faça um programa que converta Celsius para Fahrenheit.
