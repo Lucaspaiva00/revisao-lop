@@ -1,7 +1,5 @@
 ## REVISÃO LOP
 
-REVISÃO LOP
-
 Exercício 1
 Escreva uma função que peça dois números inteiros ao usuário e exibe o valor soma seguido pelo maior deles.
 
