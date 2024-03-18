@@ -6,9 +6,6 @@ Escreva uma função que peça dois números inteiros ao usuário, e exiba o val
 Exercício 2
 Faça um programa que converta Celsius para Fahrenheit.
 
-Exercício 3
-Faça um programa que vai lendo cada caractere que o usuário digitar. Quando o usuário digitar o caractere 'x', o programa deve exibir todos os caracteres que foram digitados antes do 'x'.
-
 Exercício 4
 Escreva um programa que começa pedindo um número N ao usuário e depois pede N números. O programa deverá mostrar na tela todos esses números ordenados do menor para o maior.
 
@@ -17,9 +14,6 @@ Faça um programa que encontra a raiz quadrada aproximada de um número. Para is
 
 Exercício 6
 Monte um código que gere números primos.
-
-Exercício 7
-Faça uma calculadora.
 
 Exercício 8
 Calculadora IMC
