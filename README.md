@@ -6,32 +6,32 @@ Escreva uma função que peça dois números inteiros ao usuário, e exiba o val
 Exercício 2
 Faça um programa que converta Celsius para Fahrenheit.
 
-Exercício 4
+Exercício 3
 Escreva um programa que começa pedindo um número N ao usuário e depois pede N números. O programa deverá mostrar na tela todos esses números ordenados do menor para o maior.
 
-Exercício 5
+Exercício 4
 Faça um programa que encontra a raiz quadrada aproximada de um número. Para isso, use um dos métodos existentes.
 
-Exercício 6
+Exercício 5
 Monte um código que gere números primos.
 
-Exercício 8
+Exercício 6
 Calculadora IMC
 Faça um Programa que calcule o IMC de uma e dê referências sobre o mesmo.
 
-Exercício 9
+Exercício 7
 Faça um programa em C que mostre a tabuada do número 5. (considerar tabuada do número 1 ao 10).
 
-Exercício 10
+Exercício 8
 Faça um programa em C que mostre a tabuada de qualquer número escolhido pelo usuário (considerar tabuada do número 1 ao 10).
 
-Exercício 11
+Exercício 9
 Faça um programa em C (ualize a estrutura for) que leia 10 valores inteiros e: • Encontre e mostre o maior valor • Encontre e mostre o menor valor • Calcule e mostre a média dos números lidos
 
-Exercício 12
+Exercício 10
 Faça um programa em C que exiba na tela os números ímpares entre 100 e 300. 
 
-Exercício 13
+Exercício 11
 Faça um programa em C que receba a idade de 10 pessoas e mostre quantas são maiores que 18 anos.
 
 
