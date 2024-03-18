@@ -31,13 +31,13 @@ Faça um programa em C que mostre a tabuada do número 5. (considerar tabuada do
 Exercício 10
 Faça um programa em C que mostre a tabuada de qualquer número escolhido pelo usuário (considerar tabuada do número 1 ao 10).
 
-Exercício 10
+Exercício 11
 Faça um programa em C (ualize a estrutura for) que leia 10 valores inteiros e: • Encontre e mostre o maior valor • Encontre e mostre o menor valor • Calcule e mostre a média dos números lidos
 
-Exercício 11
+Exercício 12
 Faça um programa em C que exiba na tela os números ímpares entre 100 e 300. 
 
-Exercício 11
+Exercício 13
 Faça um programa em C que receba a idade de 10 pessoas e mostre quantas são maiores que 18 anos.
 
 
