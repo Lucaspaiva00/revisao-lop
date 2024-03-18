@@ -6,12 +6,6 @@ Escreva uma função que peça dois números inteiros ao usuário, e exiba o val
 Exercício 2
 Faça um programa que converta Celsius para Fahrenheit.
 
-Exercício 3
-Escreva um programa que começa pedindo um número N ao usuário e depois pede N números. O programa deverá mostrar na tela todos esses números ordenados do menor para o maior.
-
-Exercício 4
-Faça um programa que encontra a raiz quadrada aproximada de um número. Para isso, use um dos métodos existentes.
-
 Exercício 5
 Monte um código que gere números primos.
 
